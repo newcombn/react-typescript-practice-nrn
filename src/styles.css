@@ -109,7 +109,7 @@ button{
 #records div:nth-child(even){
 	background-color: lightgray;
 	display: block;
-	margin:5px 0px;
+	margin:5px 0;
 }
 
 #weight-chart{
