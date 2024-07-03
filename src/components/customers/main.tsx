@@ -5,7 +5,6 @@ function Main() {
 		<main>
 			<h2>Customers List</h2>
 		</main>
-
     )
 }
 
